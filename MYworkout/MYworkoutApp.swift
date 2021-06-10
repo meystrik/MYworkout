@@ -2,7 +2,8 @@
 //  MYworkoutApp.swift
 //  MYworkout
 //
-//  Created by Meystrik, Chris on 6/9/21.
+//  Created by Meystrik, C. Chris on 6/9/21.
+//   Co-Authored by Meystrik, Jonathan
 //
 
 import SwiftUI
